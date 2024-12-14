@@ -15,7 +15,7 @@ I'm always open to collaborating on exciting projects, open-source contributions
 
 ### 📫 How to Reach Me
 
-📧 Email: (nextgentips01@gmail.com)
+📧 Email: nextgentips01@gmail.com
 
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sangkips/)
 
