@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I am Kipkoech Sang
+I'm a passionate Software Developer with a strong focus on Python, DevOps, and Golang. I love building robust backend systems, automating workflows, and contributing to open-source projects.
 
-<!--
-**sangkips/sangkips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 What I'm Currently Working On
 
-Here are some ideas to get you started:
+- Building scalable backend systems using Python and Golang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enhancing CI/CD pipelines and automating deployment workflows.
+
+- Contributing to open-source projects related to DevOps and software development.
+
+### 🚀 Let's Collaborate!
+
+I'm always open to collaborating on exciting projects, open-source contributions, or anything related to Python, Golang, and DevOps. Feel free to reach out, and let's build something awesome together!
+
+### 📫 How to Reach Me
+
+📧 Email: (nextgentips01@gmail.com)
+
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sangkips/)
+
+### ⚡ Fun Fact
+
+When I'm not coding, you can find me exploring new tech tools, contributing to open source, or watching tech talks on YouTube.
+
