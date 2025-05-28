@@ -16,7 +16,7 @@ I'm always open to collaborating on exciting projects, open-source contributions
 ### 📫 How to Reach Me
 Portfolio: [My portfolio](https://portfolio-k7da.vercel.app/)
 
-📧 Email: nextgentips01@gmail.com
+📧 Email: sangkipkoech@gmail.com
 
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sangkips/)
 
