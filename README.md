@@ -14,7 +14,7 @@ I'm a passionate Software Developer with a strong focus on Python, DevOps, and G
 I'm always open to collaborating on exciting projects, open-source contributions, or anything related to Python, Golang, and DevOps. Feel free to reach out, and let's build something awesome together!
 
 ### 📫 How to Reach Me
-Portfolio: [My portfolio](https://portfolio-k7da.vercel.app/)
+Portfolio: [My portfolio](https://profile.autoscaleops.com/)
 
 📧 Email: sangkipkoech@gmail.com
 
